@@ -2,4 +2,4 @@
 
 <a href="https://github.com/nightlord189/halyk-iitu-golang"><h2>Link to original repo</h2></a>
 
-<h2>This is my homeworks from this course</h2>
+<h2>There are my homework from this course</h2>
